@@ -3,7 +3,7 @@
 # Preview
 https://streamable.com/63ebyd
 
-# Dependencies
+# Requirements
   - ESX
   - Ox_lib
   - Ox_inventory
