@@ -6,6 +6,5 @@ https://streamable.com/63ebyd
 # Requirements
   - ESX
   - Ox_lib
-  - Ox_inventory
   - Ox_target
-  - Aty_dispatch
+  - aty_dispatch
